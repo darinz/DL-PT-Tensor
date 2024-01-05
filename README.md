@@ -1,4 +1,4 @@
-# NLP: Deep Learning with PyTorch Tensor Tutorial
+# Deep Learning with PyTorch Tensor Tutorial
 
 In this tutorial, you will learn the following:
 - Utilizing PyTorch tensors to encode inputs, outputs, and parameters for deep learning models.
